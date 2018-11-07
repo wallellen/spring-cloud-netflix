@@ -12,4 +12,4 @@ Eureka服务器可以被配置和部署为高可用， 并且每个服务的状�
 > To include Eureka Client in your project use the starter with group org.springframework.cloud and artifact id
 > spring-cloud-starter-netflix-eureka-client . See the [Spring Cloud Project](https://spring.io/projects/spring-cloud) page for details on setting up your build system with the
 > current Spring Cloud Release Train.  
-使用 group org.springframework.cloud 以及 artifact id spring-cloud-starter-netflic-eureka-client 将eureka client引入到你的项目中。  请参考最新的Spring Cloud发布版本[Spring Cloud Project](https://spring.io/projects/spring-cloud)页面详细构建你的系统，
+使用 group org.springframework.cloud 以及 artifact id spring-cloud-starter-netflic-eureka-client 将eureka client引入到你的项目中。  请参考最新的Spring Cloud发布版本[Spring Cloud Project](https://spring.io/projects/spring-cloud)培训手册页面详细构建你的系统，
