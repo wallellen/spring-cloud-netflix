@@ -1,7 +1,7 @@
 # spring-cloud-netflix
 
-# [1. Service Discovery: Eureka Clients](./ch01/index.md#1) 
-## [1.1. How to Include Eureka Client](./ch01/index.md#1.1) 
+# [1. Service Discovery: Eureka Clients (服务发现: Eureka客户端)](./ch01/index.md#1) 
+## [1.1. How to Include Eureka Client (如何引入一个客户端)](./ch01/index.md#1.1) 
 ## [1.2. Registering with Eureka](./ch01/index.md#1.2) 
 ## [1.3. Authenticating with the Eureka Server](./ch01/index.md#1.3) 
 ## [1.4. Status Page and Health Indicator](./ch01/index.md#1.4) 
